@@ -1,0 +1,9 @@
+
+name: gemma2_9b
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - pytorch
+  - transformers
+  - datasets
